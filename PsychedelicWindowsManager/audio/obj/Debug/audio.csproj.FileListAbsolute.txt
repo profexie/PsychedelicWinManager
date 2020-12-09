@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\PsychedelicWindowsManager\audio\bin\Debug\audio.exe.config
+C:\Users\User\source\repos\PsychedelicWindowsManager\audio\bin\Debug\audio.exe
+C:\Users\User\source\repos\PsychedelicWindowsManager\audio\bin\Debug\audio.pdb
+C:\Users\User\source\repos\PsychedelicWindowsManager\audio\obj\Debug\audio.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PsychedelicWindowsManager\audio\obj\Debug\audio.Properties.Resources.resources
+C:\Users\User\source\repos\PsychedelicWindowsManager\audio\obj\Debug\audio.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PsychedelicWindowsManager\audio\obj\Debug\audio.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PsychedelicWindowsManager\audio\obj\Debug\audio.exe
+C:\Users\User\source\repos\PsychedelicWindowsManager\audio\obj\Debug\audio.pdb
